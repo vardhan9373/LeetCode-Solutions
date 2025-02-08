@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
