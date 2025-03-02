@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
