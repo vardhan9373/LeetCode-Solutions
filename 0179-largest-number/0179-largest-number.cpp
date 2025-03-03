@@ -22,12 +22,12 @@ public:
         {
             if((v[i]+v[j])>(v[j]+v[i]))
             {
-                cout<<"HI";
+                //cout<<"HI";
                 arr[index++]=v[i++];
             }
             else
             {
-                cout<<"BYE";
+                //<<"BYE";
                 arr[index++]=v[j++]; 
             }
         }
