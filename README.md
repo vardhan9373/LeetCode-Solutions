@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1642-water-bottles](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/1642-water-bottles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
