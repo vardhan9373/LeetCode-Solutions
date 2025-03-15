@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/vardhan9373/LeetCode-Solutions/tree/master/0179-largest-number) |
 ## Segment Tree
 |  |
